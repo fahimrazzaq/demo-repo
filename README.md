@@ -1,7 +1,7 @@
 # Demo
 
-Some Description!
+This is placeholder description!
 
 ## Subheader
 
-Some Text.
+This is placeholder text.
